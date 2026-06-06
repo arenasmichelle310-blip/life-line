@@ -13,9 +13,7 @@ SECRET_KEY = 'django-insecure-lifeline-proyecto-sena-adso-cambiar-en-produccion'
 # En desarrollo: True. En PythonAnywhere cambiar a False
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
-# En PythonAnywhere descommentar:
-# ALLOWED_HOSTS = ['tuusuario.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'life-line-9lby.onrender.com']
 
 # ============================================================
 # APLICACIONES INSTALADAS - FASE 2
